@@ -1,4 +1,4 @@
-![image](https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/28583697/8166f315-a4c8-4bef-9981-0c8dd55fa1c9)# ✏️ 발표를 통해 함께 성장하는 이펙티브 자바 스터디 
+# ✏️ 발표를 통해 함께 성장하는 이펙티브 자바 스터디 
 
 > Why? effective java 인가?
 > effective java는 고급 자바 책입니다. ~~~~ 이래서 이팩티브 자바 스터디를 하게됬습니다.<br>
