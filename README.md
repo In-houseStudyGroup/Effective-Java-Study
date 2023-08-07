@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="[url](https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/77370682/209ff8b3-a9d4-46a2-a276-0b51f0cf73bb)" alt="이펙티브자바" />
+  <img src="https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/77370682/209ff8b3-a9d4-46a2-a276-0b51f0cf73bb" alt="이펙티브자바" />
 </p>
 
 ---
