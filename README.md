@@ -1,4 +1,4 @@
-# ✏️ 발표를 통해 함께 성장하는 이펙티브 자바 스터디 
+![image](https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/28583697/8166f315-a4c8-4bef-9981-0c8dd55fa1c9)# ✏️ 발표를 통해 함께 성장하는 이펙티브 자바 스터디 
 
 > Why? effective java 인가?
 > effective java는 고급 자바 책입니다. ~~~~ 이래서 이팩티브 자바 스터디를 하게됬습니다.<br>
@@ -20,7 +20,7 @@
 <table>
   <tr>
      <td align="center"><a href="https://github.com/Jaewui">
-     <img src="https://avatars.githubusercontent.com/u/71485411?v=4" width="100px;" alt="재의"/>
+     <img src="https://avatars.githubusercontent.com/u/91453093?v=4" width="100px;" alt="재의"/>
      <br /><sub><b>재의</b></sub></a><br />
    </td>
     <td align="center"><a href="https://github.com/tjdxo1193">
@@ -28,7 +28,7 @@
     <br /><sub><b>성태</b></sub></a><br />
     </td>
     <td align="center"><a href="https://github.com/4862abd">
-    <img src="https://avatars.githubusercontent.com/u/37841755?v=4" width="100px;" alt="병우"/>
+    <img src="https://avatars.githubusercontent.com/u/77370682?v=4" width="100px;" alt="병우"/>
     <br /><sub><b>병우</b></sub></a><br />
     </td>
 </tr>
