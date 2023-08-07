@@ -4,9 +4,10 @@
   <img src="https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/77370682/209ff8b3-a9d4-46a2-a276-0b51f0cf73bb" alt="이펙티브자바" />
 </p>
 
-> Why? effective java 인가?
+> Why? effective java 인가?<br>
 > effective java는 고급 자바 책입니다. ~~~~ 이래서 이팩티브 자바 스터디를 하게됐습니다.<br>
 > ----------추가 보안-----------
+{: .prompt-tip }
 <br>
 
 ---
