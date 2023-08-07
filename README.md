@@ -5,7 +5,7 @@
 > ----------추가 보안-----------
 <br>
 
-![EffectiveJava](https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/77370682/209ff8b3-a9d4-46a2-a276-0b51f0cf73bb)
+<p align="center"><img src="https://github.com/In-houseStudyGroup/Effective-Java-Study/assets/77370682/209ff8b3-a9d4-46a2-a276-0b51f0cf73bb)></p>
 
 ---
 
