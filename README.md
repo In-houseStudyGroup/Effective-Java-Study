@@ -5,6 +5,8 @@
 > ----------추가 보안-----------
 <br>
 
+서적: [이펙티브 자바]([https://github.com/euiminnn/image-upload/blob/master/assets/test.txt](https://search.shopping.naver.com/book/catalog/32436239326?cat_id=50010920&frm=PBOKPRO&query=%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C+%EC%9E%90%EB%B0%94&NaPm=ct%3Dll0dvodc%7Cci%3D895d5ba5b81ce8d5c1ba76db098924134c2ad79a%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D1e1bd17a596004b6ec25b15656b3b706f0ef259e))
+
 # 🚀 스터디 운영
 
 ## 기본적으로 아래의 원칙으로 스터디가 운영됩니다.
