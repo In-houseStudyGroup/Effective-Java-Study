@@ -45,6 +45,9 @@
 
 ## 스터디는 다음과 같이 진행됩니다.
 
+### 스터디 방법
+> https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/1-%EB%B0%9C%ED%91%9C-%EC%A0%95%EB%A6%AC
+
 ### 스터디 준비
 
 > 발표자료를 공유합니다. 레포지토리에 규칙에 따라 업로드해주세요.
