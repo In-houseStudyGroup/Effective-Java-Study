@@ -47,8 +47,8 @@
 
 ### 스터디 방법
 > [1. 발표정리](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/1-%EB%B0%9C%ED%91%9C-%EC%A0%95%EB%A6%AC)
-> [2. TIL](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/1-%EB%B0%9C%ED%91%9C-%EC%A0%95%EB%A6%AC)](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/2-til)
-> [3. Q&A](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/1-%EB%B0%9C%ED%91%9C-%EC%A0%95%EB%A6%AC)](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/3-q-a)
+> [2. TIL](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/2-til)
+> [3. Q&A](https://github.com/In-houseStudyGroup/Effective-Java-Study/discussions/categories/3-q-a)
 
 ### 스터디 준비
 
